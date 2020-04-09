@@ -1,0 +1,26 @@
+D:\inf dz\bin\Debug\netcoreapp3.1\inf dz.exe
+D:\inf dz\bin\Debug\netcoreapp3.1\inf dz.deps.json
+D:\inf dz\bin\Debug\netcoreapp3.1\inf dz.runtimeconfig.json
+D:\inf dz\bin\Debug\netcoreapp3.1\inf dz.runtimeconfig.dev.json
+D:\inf dz\bin\Debug\netcoreapp3.1\inf dz.dll
+D:\inf dz\bin\Debug\netcoreapp3.1\inf dz.pdb
+D:\inf dz\obj\Debug\netcoreapp3.1\inf dz.csprojAssemblyReference.cache
+D:\inf dz\obj\Debug\netcoreapp3.1\inf dz.csproj.CoreCompileInputs.cache
+D:\inf dz\obj\Debug\netcoreapp3.1\inf dz.AssemblyInfoInputs.cache
+D:\inf dz\obj\Debug\netcoreapp3.1\inf dz.AssemblyInfo.cs
+D:\inf dz\obj\Debug\netcoreapp3.1\inf dz.dll
+D:\inf dz\obj\Debug\netcoreapp3.1\inf dz.pdb
+D:\inf dz\obj\Debug\netcoreapp3.1\inf dz.genruntimeconfig.cache
+D:\Проект информатика\inf dz\bin\Debug\netcoreapp3.1\inf dz.exe
+D:\Проект информатика\inf dz\bin\Debug\netcoreapp3.1\inf dz.deps.json
+D:\Проект информатика\inf dz\bin\Debug\netcoreapp3.1\inf dz.runtimeconfig.json
+D:\Проект информатика\inf dz\bin\Debug\netcoreapp3.1\inf dz.runtimeconfig.dev.json
+D:\Проект информатика\inf dz\bin\Debug\netcoreapp3.1\inf dz.dll
+D:\Проект информатика\inf dz\bin\Debug\netcoreapp3.1\inf dz.pdb
+D:\Проект информатика\inf dz\obj\Debug\netcoreapp3.1\inf dz.csprojAssemblyReference.cache
+D:\Проект информатика\inf dz\obj\Debug\netcoreapp3.1\inf dz.csproj.CoreCompileInputs.cache
+D:\Проект информатика\inf dz\obj\Debug\netcoreapp3.1\inf dz.AssemblyInfoInputs.cache
+D:\Проект информатика\inf dz\obj\Debug\netcoreapp3.1\inf dz.AssemblyInfo.cs
+D:\Проект информатика\inf dz\obj\Debug\netcoreapp3.1\inf dz.dll
+D:\Проект информатика\inf dz\obj\Debug\netcoreapp3.1\inf dz.pdb
+D:\Проект информатика\inf dz\obj\Debug\netcoreapp3.1\inf dz.genruntimeconfig.cache
